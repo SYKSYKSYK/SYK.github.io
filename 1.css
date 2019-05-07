@@ -1,0 +1,22 @@
+*{
+  margin: 0 auto;
+}
+.a {
+width:2500px;
+ height:1080px;
+
+
+}
+.b .lx{
+  display: block;
+  margin-top:-500px;
+  display: block;
+}
+.b .tx{
+  width: 180px;
+  height:180px;
+  display: block;
+  margin-top:-1000px ;
+  margin-right:150px;
+display: block;
+}
